@@ -1,0 +1,4 @@
+#Sun Mar 31 21:34:15 IST 2019
+base.0=G\:\\ARIN\\arrow\\Temp\\gradleOut\\build\\intermediates\\transforms\\dex\\release\\0
+path.0=classes.dex
+renamed.0=classes.dex
